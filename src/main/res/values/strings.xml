@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HomePage</string>
+        <string name="welcome_text">Welcome to my homepage</string>
+        <string name="signature_text">-kavya</string>
+        <string name="trust_the_process">Never give up</string>
+
+</resources>
